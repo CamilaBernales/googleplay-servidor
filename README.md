@@ -1,7 +1,7 @@
 <p>"clon" de google play para Alkemy Labs.</p>
 <p>Requisitos</p>
 <ul>
-  <li type="square">Preinstalado package npm o Yarn</li>
+  <li type="square">Preinstalado package npm</li>
   <li type="square">Preinstalado MongoDB (este proyecto corre en entorno local)</li>
   <li type="square">Preinstalado IDE</li>
 </ul>
