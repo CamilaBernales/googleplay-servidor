@@ -10,9 +10,6 @@ const Usuario = mongoose.Schema({
   email: {
     type: String,
     required: true
-  },
-  telefono: {
-    type: String,
   }
 });
 const CompraSchema = mongoose.Schema({
